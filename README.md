@@ -23,3 +23,7 @@ python main.py
 
 - The project involved navigating through multiple pages of a website (pagination) to collect comprehensive data. This experience underscored the importance of efficiently handling dynamic web content and the need for scripts to adapt to varying amounts of data across different pages.
 
+## Questions
+
+- How can the web scraper be adapted to handle changes in the website's layout or structure to ensure long-term reliability?
+- What are the possible ways to scale the scraper to handle a larger number of pages or multiple websites without significantly increasing resource usage?
